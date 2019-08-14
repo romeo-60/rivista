@@ -1,0 +1,10 @@
+La storia di KUKA inizia nel 1898 con Johann Joseph Keller e Jakob Knappich ad Augusta. Operando nel settore dell'utilizzo del gas acetilene,  passando per l'innovazione tecnologica nel settore della saldatura,  Da allora, l'azienda è stata sinonimo di idee e innovazioni "Made in Germany". Già all'inizio del XX secolo, Keller e Knappich usano sempre più un'abbreviazione di telegramma: formata dalle lettere iniziali di "Keller und Knappich Augsburg" , nasce il marchio KUKA . La prima linea di trasferimento di saldatura gestita da robot in Europa viene realizzata nel 1971. nel 1973 Famulus è il primo robot industriale al mondo con sei assi a motore elettrico.
+nel 1996, KUKA è il primo produttore di robot a rischiare il passaggio di paradigma al controller di robot basato su PC.
+nel 2001 I robot KUKA sono utilizzati nel primo sistema di chirurgia di radiazione controllato da robot al mondo : il "Cyberknife".
+nel 2007 il KUKA KR 1000 TITAN è stato inserito nel Guinness dei primati come il robot industriale a sei assi più potente al mondo .
+Nel 2013 inizia l'era dei robot collaborativi LBR.
+Oggi KUKA è uno dei principali fornitori di soluzioni di automazione intelligenti. 
+il sistema operativo: KUKA.SystemSoftware - in breve KSS - è il cuore del controller del robot. Contiene tutte le funzioni di base necessarie per il funzionamento del sistema robotico esi basa su Windows.
+KRL: KUKA Robot Language) è fondalmentalmente il linguaggio di programmazione, mentre la comunicazione con la periferia può essere impostata sui più famosi protocolli di comunicazione: Profibus, Profinet, Ethernet IP, EtherCAT, ProfiSAFE, CIP Safety e FSoE, devicenet).
+il software moderno per la simulazione e la programmazione offline è Kuka.sim.
+La programmazione effettuale può essere condotta con l'utilizzo di SmartPad per le versioni Krc4, mentre fino alla versione KRC3 viene utilizzato il classico KCP ( KUKA Control Panel).
